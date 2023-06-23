@@ -1,0 +1,389 @@
+['INFO ]2023-06-22 23:40:43,222(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-Loading Config file
+['INFO ]2023-06-22 23:40:45,217(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-IntializingChromedriver
+['INFO ]2023-06-22 23:40:46,252(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-click on ds
+['INFO ]2023-06-22 23:40:46,461(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-checking alert message you are not logged in
+['INFO ]2023-06-22 23:40:46,493(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-alert you are not allow to login
+['INFO ]2023-06-22 23:40:46,515(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-click LinkedList 
+['INFO ]2023-06-22 23:40:46,719(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-checking alert message you are not logged in
+['INFO ]2023-06-22 23:40:46,742(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-alert you are not allow to login
+['INFO ]2023-06-22 23:40:46,754(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-click stack
+['INFO ]2023-06-22 23:40:46,958(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-checking alert message you are not logged in
+['INFO ]2023-06-22 23:40:46,980(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-alert you are not allow to login
+['INFO ]2023-06-22 23:40:46,992(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-click  queue 
+['INFO ]2023-06-22 23:40:47,200(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-checking alert message you are not logged in
+['INFO ]2023-06-22 23:40:47,220(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-alert you are not allow to login
+['INFO ]2023-06-22 23:40:47,236(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-click  Tree 
+['INFO ]2023-06-22 23:40:47,433(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-checking alert message you are not logged in
+['INFO ]2023-06-22 23:40:47,455(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-alert you are not allow to login
+['INFO ]2023-06-22 23:40:47,590(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-click on data structure dropdown sd
+['INFO ]2023-06-22 23:40:47,824(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-Checking array logger in pom Arrays
+['INFO ]2023-06-22 23:40:47,825(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-click on each dropdown sd
+['INFO ]2023-06-22 23:40:47,826(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-you are not logged in sd
+['INFO ]2023-06-22 23:40:47,954(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-click on data structure dropdown sd
+['INFO ]2023-06-22 23:40:48,101(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-Checking linkedlist logger in pom Linked list
+['INFO ]2023-06-22 23:40:48,101(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-click on each dropdown sd
+['INFO ]2023-06-22 23:40:48,103(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-you are not logged in sd
+['INFO ]2023-06-22 23:40:48,230(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-click on data structure dropdown sd
+['INFO ]2023-06-22 23:40:48,232(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-Checking stack logger in pom Stack
+['INFO ]2023-06-22 23:40:48,397(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-click on each dropdown sd
+['INFO ]2023-06-22 23:40:48,399(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-you are not logged in sd
+['INFO ]2023-06-22 23:40:48,520(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-click on data structure dropdown sd
+['INFO ]2023-06-22 23:40:48,668(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-Checking queuelogger in pom Queue
+['INFO ]2023-06-22 23:40:48,668(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-click on each dropdown sd
+['INFO ]2023-06-22 23:40:48,670(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-you are not logged in sd
+['INFO ]2023-06-22 23:40:48,798(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-click on data structure dropdown sd
+['INFO ]2023-06-22 23:40:48,992(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-Checking tree logger in pom Tree
+['INFO ]2023-06-22 23:40:48,992(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-click on each dropdown sd
+['INFO ]2023-06-22 23:40:48,994(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-you are not logged in sd
+['INFO ]2023-06-22 23:40:49,117(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-click on data structure dropdown sd
+['INFO ]2023-06-22 23:40:49,286(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-Checking graph logger in pom Graph
+['INFO ]2023-06-22 23:40:49,286(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-click on each dropdown sd
+['INFO ]2023-06-22 23:40:49,287(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-you are not logged in sd
+['INFO ]2023-06-22 23:40:49,301(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-user is on homepage sd
+['INFO ]2023-06-22 23:40:49,445(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-user is on signinpage sd
+['INFO ]2023-06-22 23:40:49,455(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-user is on homepage sd
+['INFO ]2023-06-22 23:40:49,790(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-Please fill out username field
+['INFO ]2023-06-22 23:40:50,044(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-Please fill out password  field
+['INFO ]2023-06-22 23:40:50,223(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-Please fill out password confirmation field
+['INFO ]2023-06-22 23:40:50,850(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-User Enter username as " $%#* "and Password as " Numy321" Confirm password as" Numy321
+['INFO ]2023-06-22 23:40:51,219(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-password_mismatch:The two password fields didn’t match. --- password_mismatch:The two password fields didn’t match.
+['INFO ]2023-06-22 23:40:51,219(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-Message from Register click SD: password_mismatch:The two password fields didn’t match. -- password_mismatch:The two password fields didn’t match.
+['INFO ]2023-06-22 23:40:51,349(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-User Enter username as " NumpySDET108Ninja "and Password as " Numy124" Confirm password as" Numpysdet108
+['INFO ]2023-06-22 23:40:51,765(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-password_mismatch:The two password fields didn’t match. --- password_mismatch:The two password fields didn’t match.
+['INFO ]2023-06-22 23:40:51,766(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-Message from Register click SD: password_mismatch:The two password fields didn’t match. -- password_mismatch:The two password fields didn’t match.
+['INFO ]2023-06-22 23:40:51,892(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-User Enter username as " NumpySDET108Ninja "and Password as " sdet108batch" Confirm password as" 12345abc
+['INFO ]2023-06-22 23:40:52,296(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-password_mismatch:The two password fields didn’t match. --- password_mismatch:The two password fields didn’t match.
+['INFO ]2023-06-22 23:40:52,296(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-Message from Register click SD: password_mismatch:The two password fields didn’t match. -- password_mismatch:The two password fields didn’t match.
+['INFO ]2023-06-22 23:40:52,427(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-User Enter username as " NumpySDET108Ninja "and Password as " Numy126" Confirm password as" adgn321
+['INFO ]2023-06-22 23:40:52,875(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-password_mismatch:The two password fields didn’t match. --- password_mismatch:The two password fields didn’t match.
+['INFO ]2023-06-22 23:40:52,875(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-Message from Register click SD: password_mismatch:The two password fields didn’t match. -- password_mismatch:The two password fields didn’t match.
+['INFO ]2023-06-22 23:40:52,999(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-user is on login page
+['INFO ]2023-06-22 23:40:53,023(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-------User is On Sign in page------
+['INFO ]2023-06-22 23:40:53,112(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-----User Clicks on Register Link-----
+['INFO ]2023-06-22 23:40:53,273(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-----User redirected to Page----Registration
+['INFO ]2023-06-22 23:40:53,295(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-------User is On Sign in page------
+['INFO ]2023-06-22 23:40:53,383(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-User is Clicking login button with empty fields
+['INFO ]2023-06-22 23:40:53,465(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-------User is On Sign in page------
+['INFO ]2023-06-22 23:40:53,558(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)---User Enters Only the User name--
+['INFO ]2023-06-22 23:40:53,638(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-----User can seePlease fill out this field.-----
+['INFO ]2023-06-22 23:40:53,648(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-------User is On Sign in page------
+['INFO ]2023-06-22 23:40:53,732(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-User Enters Only Password
+['INFO ]2023-06-22 23:40:53,805(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-User can see the popupPlease fill out this field.
+['INFO ]2023-06-22 23:40:53,816(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-------User is On Sign in page------
+['INFO ]2023-06-22 23:40:53,993(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)------User Clicks on Login button-----
+['INFO ]2023-06-22 23:40:54,186(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-The actual Alert is:Invalid Username and Password
+['INFO ]2023-06-22 23:40:54,193(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-------User is On Sign in page------
+['INFO ]2023-06-22 23:40:54,344(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)------User Clicks on Login button-----
+['INFO ]2023-06-22 23:40:54,541(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-The actual Alert is:Invalid Username and Password
+['INFO ]2023-06-22 23:40:54,552(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-------User is On Sign in page------
+['INFO ]2023-06-22 23:40:54,729(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)------User Clicks on Login button-----
+['INFO ]2023-06-22 23:40:54,934(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-The actual Alert is:Invalid Username and Password
+['INFO ]2023-06-22 23:40:54,942(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-user is on loginpage SD
+['INFO ]2023-06-22 23:40:55,052(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-user enter username and password
+['INFO ]2023-06-22 23:40:55,153(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-Invalid username and password
+['INFO ]2023-06-22 23:40:55,336(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-message from signin title page Login
+['INFO ]2023-06-22 23:40:55,360(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-user is on loginpage SD
+['INFO ]2023-06-22 23:40:55,478(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-user enter username and password
+['INFO ]2023-06-22 23:40:55,613(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-Invalid username and password
+['INFO ]2023-06-22 23:40:55,805(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-message from signin title page Login
+['INFO ]2023-06-22 23:40:55,834(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-user is on loginpage SD
+['INFO ]2023-06-22 23:40:55,969(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-user enter username and password
+['INFO ]2023-06-22 23:40:56,072(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-Invalid username and password
+['INFO ]2023-06-22 23:40:56,393(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-message from signin title page Login
+['INFO ]2023-06-22 23:40:56,420(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-user is on loginpage SD
+['INFO ]2023-06-22 23:40:56,555(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-user enter username and password
+['INFO ]2023-06-22 23:40:56,653(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-Invalid username and password
+['INFO ]2023-06-22 23:40:56,960(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-message from signin title page NumpyNinja
+['INFO ]2023-06-22 23:40:56,991(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-user is on home page 
+['INFO ]2023-06-22 23:40:57,152(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-user successfully logout SD
+['INFO ]2023-06-22 23:40:57,814(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-user enter valid username and password 
+['INFO ]2023-06-22 23:40:57,816(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-user successfully logout SD
+['INFO ]2023-06-22 23:40:57,972(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-User is on data structure page SDDS
+['INFO ]2023-06-22 23:40:58,153(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-The user should be redirected to Time Complexity page SDDS
+['INFO ]2023-06-22 23:40:58,162(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-User is on data structure page SDDS
+['INFO ]2023-06-22 23:40:59,305(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-user try to do negative test
+['WARN ]2023-06-22 23:40:59,469(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-checking alert message from tryeditor SyntaxError: bad input on line 1
+['INFO ]2023-06-22 23:40:59,469(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-Error Message is:SyntaxError: bad input on line 1
+['INFO ]2023-06-22 23:40:59,688(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-user in Array page
+['INFO ]2023-06-22 23:40:59,811(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-User clicks on Arrays in Python in Array Page
+['INFO ]2023-06-22 23:41:00,100(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-user in Arrays in Python page
+['INFO ]2023-06-22 23:41:00,426(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-user in on Assessment page
+['WARN ]2023-06-22 23:41:00,976(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-checking alert message from tryeditor array SyntaxError: bad input on line 1
+['INFO ]2023-06-22 23:41:00,976(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-Error message is: SyntaxError: bad input on line 1
+['INFO ]2023-06-22 23:41:01,260(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-User should be redirected to Arrays Using List page
+['WARN ]2023-06-22 23:41:02,186(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-checking alert message from tryeditor array SyntaxError: bad input on line 1
+['INFO ]2023-06-22 23:41:02,187(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-Error message is: SyntaxError: bad input on line 1
+['INFO ]2023-06-22 23:41:02,500(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-user is on basic operation page
+['INFO ]2023-06-22 23:41:02,506(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-Title of current page is:Basic Operations in Lists
+['WARN ]2023-06-22 23:41:03,247(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-checking alert message from tryeditor array SyntaxError: bad input on line 1
+['INFO ]2023-06-22 23:41:03,653(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-Title of current page is:Applications of Array
+['INFO ]2023-06-22 23:41:03,927(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-Title of current page is:Practice Questions
+['INFO ]2023-06-22 23:41:04,219(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-Title of current page is:Assessment
+['INFO ]2023-06-22 23:41:04,458(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-user_enters_valid_python_code_from_sheet_print_question_page 
+['INFO ]2023-06-22 23:41:04,501(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)- checking clickevent in array sd page
+['WARN ]2023-06-22 23:41:04,507(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-checking alert message from tryeditor array SyntaxError: bad input on line 1
+['INFO ]2023-06-22 23:41:04,507(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)- checking output in array sd pageSyntaxError: bad input on line 1
+['INFO ]2023-06-22 23:41:04,777(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-Title of current page is:Assessment
+['INFO ]2023-06-22 23:41:05,643(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-user_should_get_success_submission_message_find_numberswith_even_numberof_digits Error occurred during submission
+['INFO ]2023-06-22 23:41:05,924(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-Title of current page is:Assessment
+['INFO ]2023-06-22 23:41:06,776(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-user_should_get_success_submission_message_find_numberswith_even_numberof_digits Error occurred during submission
+['INFO ]2023-06-22 23:41:06,884(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)------------------------------------User clicks on LinkedList Getstarted button-------------------------------------
+['INFO ]2023-06-22 23:41:07,058(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-----------------------------------The User redirected to LinkedList Page-------------------------------------
+['INFO ]2023-06-22 23:41:07,067(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)------------------------------------The user is on the Linked List page---------------------------------------------
+['INFO ]2023-06-22 23:41:07,154(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-------------------------------------User Clicks on Introduction link---------------------------------------------
+['WARN ]2023-06-22 23:41:07,154(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-*******LinkedList Introduction Page****************
+['INFO ]2023-06-22 23:41:07,272(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-----------------------------------The user move to Introduction of Linked List Page---------------------------------------------
+['WARN ]2023-06-22 23:41:07,286(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-*******LinkedList Introduction Page****************
+['INFO ]2023-06-22 23:41:07,371(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)--------------------------The user clicks Try Here button in the introduction page---------------------------------------
+['INFO ]2023-06-22 23:41:07,567(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)---------User is in editor page-----
+['INFO ]2023-06-22 23:41:07,569(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)--------------------------The user redirected to the tryEditor page of introduction page--------------------------------------
+['INFO ]2023-06-22 23:41:07,577(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)--------------------------"User is on Try Editor Page of introduction page--------------------------------------
+['INFO ]2023-06-22 23:41:07,680(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)--------------------------clicks on Run Button of introduction pag--------------------------------------
+['INFO ]2023-06-22 23:41:07,727(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-User Clicked on Run button
+['INFO ]2023-06-22 23:41:07,728(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-----------The User is Presented with error message of introduction page------------------------
+['INFO ]2023-06-22 23:41:07,755(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)------------------------------------The user is on the Linked List page---------------------------------------------
+['INFO ]2023-06-22 23:41:07,857(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)---------------------------------------------------------The user clicks creating linked list link---------------------------------------
+['INFO ]2023-06-22 23:41:07,879(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-ClickCreating Linked LIstOn Linked List Page
+['INFO ]2023-06-22 23:41:08,071(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-Title of the PageCreating Linked LIst
+['INFO ]2023-06-22 23:41:08,072(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)--------------------------------------------------------The user move to Creating Linked LIst of Linked List Page---------------------------------------
+['INFO ]2023-06-22 23:41:08,083(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)--------------------------------------------------------The user is on the Creating a Linked List of Linked List Page"--------------------------------------
+['INFO ]2023-06-22 23:41:08,084(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)--------------------------------------------------------clicks Try Here button in the creation of linked listPage------------------------------------
+['INFO ]2023-06-22 23:41:08,271(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)---------User is in editor page-----
+['INFO ]2023-06-22 23:41:08,272(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)--------------------------------------------------------The user redirected to the tryEditor page of creating linked list Page-----------------------------------
+['INFO ]2023-06-22 23:41:08,278(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)--------------------------------------------------------User is on Try Editor Page of creating linked list page-----------------------------------
+['INFO ]2023-06-22 23:41:08,280(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-------------------------------------------------------The user Enter invalid python code {string} in creating linked list page-----------------------------------
+['INFO ]2023-06-22 23:41:08,376(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-------------------------------------------------------click on run button of Creating a Linked List pagee-----------------------------------
+['INFO ]2023-06-22 23:41:08,411(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-User Clicked on Run button
+['INFO ]2023-06-22 23:41:08,412(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)----------------------------------------------------The user get the error message of Creating a Linked List page----------------------------------
+['WARN ]2023-06-22 23:41:09,433(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)---------------ERROR MESSAGE FROM ALERT-------------SyntaxError: bad input on line 1
+['INFO ]2023-06-22 23:41:09,445(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)------------------------------------The user is on the Linked List page---------------------------------------------
+['INFO ]2023-06-22 23:41:09,753(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)----------------------------------------------------The user clicks Types of Linked List link----------------------------------
+['INFO ]2023-06-22 23:41:09,769(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-ClickTypes of Linked ListOn Linked List Page
+['INFO ]2023-06-22 23:41:10,025(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-Title of the PageTypes of Linked List
+['INFO ]2023-06-22 23:41:10,026(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)----------------------------------------------------The user move to Types of Linked List of Linked List Page----------------------------------
+['INFO ]2023-06-22 23:41:10,035(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)----------------------------------------------------The user is on the Types of Linked list Page----------------------------------
+['INFO ]2023-06-22 23:41:10,036(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)----------------------------------------------------he user clicks TryHere button in the types of linkedlist page----------------------------------
+['INFO ]2023-06-22 23:41:10,224(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)---------User is in editor page-----
+['INFO ]2023-06-22 23:41:10,237(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)----------------------------------------------------User is on TryEditor Page of Types of Linked List---------------------------------
+['INFO ]2023-06-22 23:41:10,237(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)---------------------------------------------------The user Enter valid python code in types of linked list page--------------------------------
+['INFO ]2023-06-22 23:41:10,426(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)--------------------------------------------------click on run button of Types of Linked List page-------------------------------
+['INFO ]2023-06-22 23:41:10,460(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-User Clicked on Run button
+['INFO ]2023-06-22 23:41:10,499(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)------------------------------------The user is on the Linked List page---------------------------------------------
+['INFO ]2023-06-22 23:41:10,797(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-------------------------------------------------The user clicks Implement Linked List in Python link-------------------------------
+['INFO ]2023-06-22 23:41:10,816(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-ClickImplement Linked List in PythonOn Linked List Page
+['INFO ]2023-06-22 23:41:11,105(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-Title of the PageImplement Linked List in Python
+['INFO ]2023-06-22 23:41:11,106(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-----------------------------------------------The user move to Implement Linked List in Python of Linked List Page----------------------------
+['INFO ]2023-06-22 23:41:11,116(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-----------------------------------------------The user is on the Implement Linked List in Python----------------------------
+['INFO ]2023-06-22 23:41:11,118(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-----------------------------------------------The user clicks Try Here button in the implemented linked list in python page---------------------------
+['INFO ]2023-06-22 23:41:11,276(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)---------User is in editor page-----
+['INFO ]2023-06-22 23:41:11,277(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)----------------------------------------------The user redirected to the tryEditor page of Implement Linked List in Python---------------------------
+['INFO ]2023-06-22 23:41:11,288(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)----------------------------------------------User Enters  invalid python code {string} in implementation link list in python---------------------------
+['INFO ]2023-06-22 23:41:11,411(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-----------clicks on Run Button------------------------
+['INFO ]2023-06-22 23:41:11,453(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)---------------------------------------------The user get the error message of implementation link list in python---------------------------
+['INFO ]2023-06-22 23:41:11,463(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)------------------------------------The user is on the Linked List page---------------------------------------------
+['INFO ]2023-06-22 23:41:11,678(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)--------------------------------------------The user clicks Traversal link---------------------------
+['INFO ]2023-06-22 23:41:11,700(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-ClickTraversalOn Linked List Page
+['INFO ]2023-06-22 23:41:11,953(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-Title of the PageTraversal
+['INFO ]2023-06-22 23:41:11,954(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-------------------------------------------The user move to Traversal of Linked List Page---------------------------
+['INFO ]2023-06-22 23:41:11,965(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-----------------------------------------The user is on the Traversal Page---------------------------
+['INFO ]2023-06-22 23:41:11,966(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)----------------------------------------The user clicks Try Here button in the traversal page---------------------------
+['INFO ]2023-06-22 23:41:12,132(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)---------User is in editor page-----
+['INFO ]2023-06-22 23:41:12,142(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)----------------------------------------The user is on Tryeditor page of traversal--------------------------
+['INFO ]2023-06-22 23:41:12,143(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)---------------------------------------The user Enter valid python code {string} in traversal page-------------------------
+['INFO ]2023-06-22 23:41:12,347(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)---------------------------------------click on run button of traversal page-------------------------
+['INFO ]2023-06-22 23:41:12,382(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-User Clicked on Run button
+['INFO ]2023-06-22 23:41:12,385(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)---------------------------------------The user should get the Run output of traversal page-------------------------
+['INFO ]2023-06-22 23:41:12,415(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)------------------------------------The user is on the Linked List page---------------------------------------------
+['INFO ]2023-06-22 23:41:12,586(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)--------------------------------------The user clicks Insertion link-------------------------
+['INFO ]2023-06-22 23:41:12,605(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-ClickInsertionOn Linked List Page
+['INFO ]2023-06-22 23:41:12,788(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-Title of the PageInsertion
+['INFO ]2023-06-22 23:41:12,789(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-------------------------------------The user move to Insertion of Linked List Page-------------------------
+['INFO ]2023-06-22 23:41:12,797(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-------------------------------------The user is on the Insertion Page------------------------
+['INFO ]2023-06-22 23:41:12,798(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)------------------------------------- The user clicks Try Here button in the Insertion page------------------------
+['INFO ]2023-06-22 23:41:13,001(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)---------User is in editor page-----
+['INFO ]2023-06-22 23:41:13,002(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)------------------------------------- The user redirected to the tryEditor page of Insertion----------------------
+['INFO ]2023-06-22 23:41:13,009(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)------------------------------------The user is on Tryeditor page of Insertion----------------------
+['INFO ]2023-06-22 23:41:13,009(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-----------------------------------The user Enter invalid python code {string} in insertion page----------------------
+['INFO ]2023-06-22 23:41:13,086(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-----------------------------------click on run button of insertion page----------------------
+['INFO ]2023-06-22 23:41:13,126(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-User Clicked on Run button
+['INFO ]2023-06-22 23:41:13,129(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)----------------------------------The user get the error message of insertion page---------------------
+['INFO ]2023-06-22 23:41:13,143(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)------------------------------------The user is on the Linked List page---------------------------------------------
+['INFO ]2023-06-22 23:41:13,301(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)---------------------------------The user clicks Deletion link--------------------
+['INFO ]2023-06-22 23:41:13,324(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-ClickDeletionOn Linked List Page
+['INFO ]2023-06-22 23:41:13,505(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-Title of the PageDeletion
+['INFO ]2023-06-22 23:41:13,506(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)--------------------------------The user move to Deletion of Linked List Page-------------------
+['INFO ]2023-06-22 23:41:13,513(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-------------------------------The user is on the Deletion page-------------------
+['INFO ]2023-06-22 23:41:13,513(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)------------------------------The user clicks Try Here button in the Deletion page-------------------
+['INFO ]2023-06-22 23:41:13,690(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)---------User is in editor page-----
+['INFO ]2023-06-22 23:41:13,692(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)------------------------------The user redirected to the tryEditor page of Deletion-------------------
+['INFO ]2023-06-22 23:41:13,700(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-----------------------------The user is on Tryeditor page of deletion------------------
+['INFO ]2023-06-22 23:41:13,701(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-----------------------------The user Enter valid python code {string} in deletion page------------------
+['INFO ]2023-06-22 23:41:13,766(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)----------------------------click on run button of deletion page------------------
+['INFO ]2023-06-22 23:41:13,806(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-User Clicked on Run button
+['INFO ]2023-06-22 23:41:13,807(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)---------------------------The user should get the Run output deletion page------------------
+['WARN ]2023-06-22 23:41:13,838(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-*******LinkedList Introduction Page****************
+['INFO ]2023-06-22 23:41:13,978(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)---------------------------User clicks on the Practice Questions------------------
+['INFO ]2023-06-22 23:41:13,995(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-ClickPractice Questions
+['INFO ]2023-06-22 23:41:14,132(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-Title of the PagePractice Questions
+['INFO ]2023-06-22 23:41:14,133(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-------------------------User redirected to Practice Questions of Linked List Page------------------
+['INFO ]2023-06-22 23:41:14,386(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-user is on stack page SDST
+['INFO ]2023-06-22 23:41:14,651(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-Title of current page is:Operations in Stack
+['INFO ]2023-06-22 23:41:14,662(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-User is on data structure page SDDS
+['INFO ]2023-06-22 23:41:14,874(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-Title of current page is:Assessment
+['WARN ]2023-06-22 23:41:15,300(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-checking alert message from tryeditor SyntaxError: bad input on line 1
+['INFO ]2023-06-22 23:41:15,300(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-Error Message is:SyntaxError: bad input on line 1
+['INFO ]2023-06-22 23:41:15,575(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-Title of current page is:Practice Questions
+['INFO ]2023-06-22 23:41:15,668(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-----------User is on Home Page of Dsalgo Portal------------------------
+['INFO ]2023-06-22 23:41:15,669(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-----------User clicks on getstarted button------------------------
+['INFO ]2023-06-22 23:41:15,805(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-----------User is navigated to Queue data structure------------------------
+['INFO ]2023-06-22 23:41:15,816(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-----------User is on Queue Data Structure------------------------
+['INFO ]2023-06-22 23:41:15,816(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-----------User clicks on Implementation of Queue in Python------------------------
+['INFO ]2023-06-22 23:41:15,905(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-User is in Implementation of Queue in Python Page 
+['INFO ]2023-06-22 23:41:15,915(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-----------User is on Implementation of Queue in Python------------------------
+['INFO ]2023-06-22 23:41:15,918(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-----------User clicks on TRYHERE button------------------------
+['INFO ]2023-06-22 23:41:16,115(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-----------User is navigated to tryEditor Page------------------------
+['INFO ]2023-06-22 23:41:16,126(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-----------User Enters Code in Editor------------------------
+['INFO ]2023-06-22 23:41:16,325(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-----------clicks on Run Button------------------------
+['INFO ]2023-06-22 23:41:16,362(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-----------The User is Presented with a Result------------------------
+['INFO ]2023-06-22 23:41:16,480(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-----------User is navigated to Implementation of Queue in python------------------------
+['INFO ]2023-06-22 23:41:16,481(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-----------User clicks on TRYHERE button------------------------
+['INFO ]2023-06-22 23:41:16,776(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-----------clicks on Run Button------------------------
+['WARN ]2023-06-22 23:41:16,822(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-***Error Message from Alert*******SyntaxError: bad input on line 1
+['INFO ]2023-06-22 23:41:16,831(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-----------User is on Queue Data Structure------------------------
+['INFO ]2023-06-22 23:41:16,831(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-----------User clicks on the Implementation using collections.deque link------------------------
+['INFO ]2023-06-22 23:41:16,919(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-User is in Implementation using collection.deque 
+['INFO ]2023-06-22 23:41:16,920(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-----------User is navigated to Implementation using collections.deque link-----------------------
+['INFO ]2023-06-22 23:41:16,926(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-----------User clicks on TRYHERE button------------------------
+['INFO ]2023-06-22 23:41:17,136(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-----------User is navigated to tryEditor Page------------------------
+['INFO ]2023-06-22 23:41:17,143(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-----------User Enters Code in Editor------------------------
+['INFO ]2023-06-22 23:41:17,254(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-----------clicks on Run Button------------------------
+['INFO ]2023-06-22 23:41:17,295(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-----------The User is Presented with a Result------------------------
+['INFO ]2023-06-22 23:41:17,317(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-----------User is on Queue Data Structure------------------------
+['INFO ]2023-06-22 23:41:17,420(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-----------User is navigated to Implementation using array page-----------------------
+['INFO ]2023-06-22 23:41:17,431(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-----------User is on Implementation using array page-----------------------
+['INFO ]2023-06-22 23:41:17,431(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-----------User clicks on TRYHERE button------------------------
+['INFO ]2023-06-22 23:41:17,631(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-----------User is navigated to tryEditor Page------------------------
+['INFO ]2023-06-22 23:41:17,638(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-----------User Enters Code in Editor------------------------
+['INFO ]2023-06-22 23:41:17,766(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-----------clicks on Run Button------------------------
+['INFO ]2023-06-22 23:41:17,800(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-----------The User is Presented with a Result------------------------
+['INFO ]2023-06-22 23:41:17,816(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-----------User is on Queue Data Structure------------------------
+['INFO ]2023-06-22 23:41:17,816(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-----------User clicks on  Queue Operations link-----------------------
+['INFO ]2023-06-22 23:41:17,924(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-----------User is navigated to Queue Operations Page-----------------------
+['INFO ]2023-06-22 23:41:17,938(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-----------User is on QUeue Operations Page-----------------------
+['INFO ]2023-06-22 23:41:17,939(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-----------User clicks on TRYHERE button------------------------
+['INFO ]2023-06-22 23:41:18,149(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-----------User is navigated to tryEditor Page------------------------
+['INFO ]2023-06-22 23:41:18,159(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-----------User Enters Code in Editor------------------------
+['INFO ]2023-06-22 23:41:18,258(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-----------clicks on Run Button------------------------
+['INFO ]2023-06-22 23:41:18,292(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-----------The User is Presented with a Result------------------------
+['INFO ]2023-06-22 23:41:18,311(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-----------User is on Implementation of Queue in Python------------------------
+['INFO ]2023-06-22 23:41:18,312(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-----------User clicks on Practice Questions link-----------------------
+['INFO ]2023-06-22 23:41:18,501(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-User Click the tree Get Started Button
+['INFO ]2023-06-22 23:41:18,655(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-User redirected to Tree Data Structure Page 
+['INFO ]2023-06-22 23:41:18,659(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-Title of current page is : Tree
+['INFO ]2023-06-22 23:41:18,670(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-User is on data structure page SDDS
+['INFO ]2023-06-22 23:41:18,689(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-click Overview of Trees On Trees page
+['INFO ]2023-06-22 23:41:18,885(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)- Title of the page Overview of Trees
+['INFO ]2023-06-22 23:41:18,886(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-User redirected to Overview of Trees
+['INFO ]2023-06-22 23:41:18,891(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-Title of current page is : Overview of Trees
+['INFO ]2023-06-22 23:41:18,901(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-User is on data structure page SDDS
+['INFO ]2023-06-22 23:41:19,104(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-User redirected to a page having an tryEditor with a Run button to test
+['INFO ]2023-06-22 23:41:19,107(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-Title of current page is :Assessment
+['INFO ]2023-06-22 23:41:19,118(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)--------------User is on tryEditor Page-------------
+['INFO ]2023-06-22 23:41:19,118(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-----------------User enters Valid Python code--------------
+['INFO ]2023-06-22 23:41:19,207(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-----------------clicks on Run button-----------------
+['INFO ]2023-06-22 23:41:19,245(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)---------User is presented with the Result-------------
+['INFO ]2023-06-22 23:41:19,277(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-User is on data structure page SDDS
+['INFO ]2023-06-22 23:41:19,424(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)- Title of the page Terminologies
+['INFO ]2023-06-22 23:41:19,425(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-User redirected to Terminologies
+['INFO ]2023-06-22 23:41:19,431(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-Title of current page is : Terminologies
+['INFO ]2023-06-22 23:41:19,439(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-User is on data structure page SDDS
+['INFO ]2023-06-22 23:41:19,644(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-Title of current page is:Assessment
+['INFO ]2023-06-22 23:41:19,652(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)--------------User is on tryEditor Page-------------
+['INFO ]2023-06-22 23:41:19,652(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)--------User clicks on  Graph Representations link------
+['INFO ]2023-06-22 23:41:19,739(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-----------------clicks on Run button-----------------
+['INFO ]2023-06-22 23:41:19,774(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-----------------User is presented with Error Message-----------------
+['INFO ]2023-06-22 23:41:19,781(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-The Error Message is:SyntaxError: bad input on line 1
+['INFO ]2023-06-22 23:41:19,789(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-User is on data structure page SDDS
+['INFO ]2023-06-22 23:41:19,967(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)- Title of the page Types of Trees
+['INFO ]2023-06-22 23:41:19,968(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-User redirected to Types of Trees
+['INFO ]2023-06-22 23:41:19,971(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-Title of current page is : Types of Trees
+['INFO ]2023-06-22 23:41:19,980(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-User is on data structure page SDDS
+['INFO ]2023-06-22 23:41:20,185(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-Title of current page is:Assessment
+['INFO ]2023-06-22 23:41:20,191(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)--------------User is on tryEditor Page-------------
+['INFO ]2023-06-22 23:41:20,191(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-----------------User enters Valid Python code--------------
+['INFO ]2023-06-22 23:41:20,273(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-----------------clicks on Run button-----------------
+['INFO ]2023-06-22 23:41:20,313(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)---------User is presented with the Result-------------
+['INFO ]2023-06-22 23:41:20,340(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-User is on data structure page SDDS
+['INFO ]2023-06-22 23:41:20,540(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)- Title of the page Tree Traversals
+['INFO ]2023-06-22 23:41:20,541(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-User redirected to Tree Traversals
+['INFO ]2023-06-22 23:41:20,545(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-Title of current page is : Tree Traversals
+['INFO ]2023-06-22 23:41:20,552(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-User is on data structure page SDDS
+['INFO ]2023-06-22 23:41:20,761(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-Title of current page is:Assessment
+['INFO ]2023-06-22 23:41:20,771(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)--------------User is on tryEditor Page-------------
+['INFO ]2023-06-22 23:41:20,772(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)--------User clicks on  Graph Representations link------
+['INFO ]2023-06-22 23:41:20,858(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-----------------clicks on Run button-----------------
+['INFO ]2023-06-22 23:41:20,892(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-----------------User is presented with Error Message-----------------
+['INFO ]2023-06-22 23:41:20,900(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-The Error Message is:SyntaxError: bad input on line 1
+['INFO ]2023-06-22 23:41:20,910(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-User is on data structure page SDDS
+['INFO ]2023-06-22 23:41:21,123(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)- Title of the page Traversals-Illustration
+['INFO ]2023-06-22 23:41:21,124(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-User redirected to Traversals-Illustration
+['INFO ]2023-06-22 23:41:21,128(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-Title of current page is : Traversals-Illustration
+['INFO ]2023-06-22 23:41:21,137(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-User is on data structure page SDDS
+['INFO ]2023-06-22 23:41:21,327(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-Title of current page is:Assessment
+['INFO ]2023-06-22 23:41:21,336(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)--------------User is on tryEditor Page-------------
+['INFO ]2023-06-22 23:41:21,336(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-----------User Enters Code in Editor------------------------
+['INFO ]2023-06-22 23:41:21,458(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-----------------clicks on Run button-----------------
+['INFO ]2023-06-22 23:41:21,494(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)---------User is presented with the Result-------------
+['INFO ]2023-06-22 23:41:21,514(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-User is on data structure page SDDS
+['INFO ]2023-06-22 23:41:21,739(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)- Title of the page Binary Trees
+['INFO ]2023-06-22 23:41:21,741(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-User redirected to Binary Trees
+['INFO ]2023-06-22 23:41:21,745(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-Title of current page is : Binary Trees
+['INFO ]2023-06-22 23:41:21,754(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-User is on data structure page SDDS
+['INFO ]2023-06-22 23:41:21,953(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-Title of current page is:Assessment
+['INFO ]2023-06-22 23:41:21,961(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)--------------User is on tryEditor Page-------------
+['INFO ]2023-06-22 23:41:21,962(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)--------User clicks on  Graph Representations link------
+['INFO ]2023-06-22 23:41:22,037(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-----------------clicks on Run button-----------------
+['INFO ]2023-06-22 23:41:22,079(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-----------------User is presented with Error Message-----------------
+['INFO ]2023-06-22 23:41:22,086(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-The Error Message is:SyntaxError: bad input on line 1
+['INFO ]2023-06-22 23:41:22,099(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-User is on data structure page SDDS
+['INFO ]2023-06-22 23:41:22,361(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)- Title of the page Types of Binary Trees
+['INFO ]2023-06-22 23:41:22,362(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-User redirected to Types of Binary Trees
+['INFO ]2023-06-22 23:41:22,367(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-Title of current page is : Types of Binary Trees
+['INFO ]2023-06-22 23:41:22,375(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-User is on data structure page SDDS
+['INFO ]2023-06-22 23:41:22,717(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-Title of current page is:Assessment
+['INFO ]2023-06-22 23:41:22,724(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)--------------User is on tryEditor Page-------------
+['INFO ]2023-06-22 23:41:22,724(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-----------User Enters Code in Editor------------------------
+['INFO ]2023-06-22 23:41:22,824(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-----------------clicks on Run button-----------------
+['INFO ]2023-06-22 23:41:22,860(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)---------User is presented with the Result-------------
+['INFO ]2023-06-22 23:41:22,882(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-User is on data structure page SDDS
+['INFO ]2023-06-22 23:41:22,989(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)- Title of the page Practice Questions
+['INFO ]2023-06-22 23:41:22,990(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-User redirected to Practice Questions
+['INFO ]2023-06-22 23:41:22,993(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-Title of current page is : Practice Questions
+['INFO ]2023-06-22 23:41:23,125(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-----------------User clicks on Graph Get started button------------------
+['INFO ]2023-06-22 23:41:23,264(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-----------------User is on Graph Page------------------
+['INFO ]2023-06-22 23:41:23,281(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-----------------User is on Graph Data Structure Page----------------
+['INFO ]2023-06-22 23:41:23,281(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-----------------User clicks on Graph link in Graph Page-------------------
+['INFO ]2023-06-22 23:41:23,398(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-----------------User is re-directed to Graphlink of Graph Page--------------
+['INFO ]2023-06-22 23:41:23,404(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-----------------User is on Graph link of Graph Page-----------------
+['INFO ]2023-06-22 23:41:23,405(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-----------User clicks on Try here button-------------
+['INFO ]2023-06-22 23:41:23,610(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-------------User is re-directed to tryEditor Page--------------
+['INFO ]2023-06-22 23:41:23,618(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)--------------User is on tryEditor Page-------------
+['INFO ]2023-06-22 23:41:23,619(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-----------------User enters Valid Python code--------------
+['INFO ]2023-06-22 23:41:23,697(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-----------------clicks on Run button-----------------
+['INFO ]2023-06-22 23:41:23,734(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)---------User is presented with the Result-------------
+['INFO ]2023-06-22 23:41:23,761(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)----------------User is on graph Page-------------
+['INFO ]2023-06-22 23:41:23,854(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)----------User is NAVIGATED TO graph Page-------------
+['INFO ]2023-06-22 23:41:23,855(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)---------User clicks on  Graph Representations link--------
+['INFO ]2023-06-22 23:41:24,050(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)---------------User is navigated to Graph Representations Page---------------
+['INFO ]2023-06-22 23:41:24,056(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)---------------User is on Graph Representations Page---------------
+['INFO ]2023-06-22 23:41:24,056(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)---------------User clicks on Practice Questions link----------------
+['INFO ]2023-06-22 23:41:24,280(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-------------User is re-directed to tryEditor Page--------------
+['INFO ]2023-06-22 23:41:24,286(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)--------------User is on tryEditor Page-------------
+['INFO ]2023-06-22 23:41:24,286(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)--------User clicks on  Graph Representations link------
+['INFO ]2023-06-22 23:41:24,380(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-----------------clicks on Run button-----------------
+['INFO ]2023-06-22 23:41:24,418(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-----------------User is presented with Error Message-----------------
+['INFO ]2023-06-22 23:41:24,426(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-The Error Message is:SyntaxError: bad input on line 1
+['INFO ]2023-06-22 23:41:24,439(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)---------------User is on Graph Representations Page---------------
+['INFO ]2023-06-22 23:41:24,440(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)---------------User clicks on Practice Questions link--------------
+['INFO ]2023-06-22 23:41:24,539(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)---------------User is navigated to Practice Questions Page--------------
+['INFO ]2023-06-22 23:41:24,543(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-Closing Driver
