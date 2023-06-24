@@ -1,9 +1,9 @@
 package runner;
-import org.junit.runner.RunWith;
+//import org.junit.runner.RunWith;
 //TestNG test runner class for executing Cucumber scenarios. 
 import org.testng.annotations.DataProvider;
 
-import io.cucumber.junit.Cucumber;
+//import io.cucumber.junit.Cucumber;
 import io.cucumber.testng.AbstractTestNGCucumberTests;
 import io.cucumber.testng.CucumberOptions;
 
@@ -13,7 +13,7 @@ import io.cucumber.testng.CucumberOptions;
 //The features attribute specifies the location of the feature files. 
 //The glue attribute specifies the location of the step definition and hooks files. 
 
-@RunWith(Cucumber.class)
+//@RunWith(Cucumber.class)
 @CucumberOptions(plugin = { "pretty","html:target/cucumber.html" ,"io.qameta.allure.cucumber7jvm.AllureCucumber7Jvm",
 		"com.aventstack.extentreports.cucumber.adapter.ExtentCucumberAdapter:" },// reporting purpose
 		monochrome = false, // console output

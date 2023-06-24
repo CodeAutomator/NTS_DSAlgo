@@ -84,7 +84,7 @@ Scenario: Validation of Basic Operations in Lists link
 	
 	Scenario: Validation of valid python code in Practice Questions page for Search for Array link 
 	Given User is on Question page of Search the array after logged in 
-	When User enters valid Python code from sheet "print("question page")"
+	When User enters valid Python code from sheet "print”array = array(‘i’,[5,10,15,20,5])”"
 	And User clicks on Run button of Practice Questions
 	Then User should be able to see the Result Practice Questions
 	
